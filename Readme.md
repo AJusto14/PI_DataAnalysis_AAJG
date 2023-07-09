@@ -157,7 +157,7 @@ Para complementar la información y poder tomar una mejor decisión de lo coment
 Poblaciones de Argentina con el paso del tiempo.
 
 <p align='center'>
-<img src = 'src/poblacion1.png' height = 750>
+<img src = 'src/poblacion1.png' height = 800>
      Fuente: Gobierno de Argentina.
 <p>
 <br>
