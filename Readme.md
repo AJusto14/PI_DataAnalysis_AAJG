@@ -157,8 +157,8 @@ Para complementar la información y poder tomar una mejor decisión de lo coment
 Poblaciones de Argentina con el paso del tiempo.
 
 <p align='center'>
-<img src = 'src/poblacion1.png' height = 700>
-Fuente: Gobierno de Argentina.
+<img src = 'src/poblacion1.png' height = 750>
+     Fuente: Gobierno de Argentina.
 <p>
 <br>
 Entonces, vemos cuales serían las ciudades con mayor incremento poblacional.
