@@ -182,7 +182,9 @@ Entonces, la competencia es fuerte, pero teniendo la fidelidad y la recomendaci�
 
 Y bueno, los ingresos son algo obvio que caerán por el peso de lo anteriormente dicho, así que, si se quiere tener ganancias, hay que invertir, ser rápidos y ganar mercado a la competencia.
 
-El trabajo se realizó usando Python, PowerBI, MySQL, Excel y obviamente GIT, comprobando y haciendo las debidas modificaciones.
+El trabajo se realizó usando Python, PowerBI, MySQL, Excel y obviamente GIT, para realizar las debidas consignas de las cuales se derivan los hallazgos presentados.
+
+Con Python se hizo el ETL y el EDA, para realizar algunas transformaciones y algunos hallazgos de los datos, Power BI para mostrar la información gráficamente más presentable, MySQL para hacer cruza de datos y ver algunos querys de consultas, Excel para ver información y GIT para crear y actualizar el proyecto.
 
 No hay que desestimar la importancia de algunos elementos que se usaron, como una tabla tal cual y el Excel, que son parte de las herramientas que podemos usar al analizar datos. 
 
