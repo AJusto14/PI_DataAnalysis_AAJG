@@ -182,11 +182,12 @@ Entonces, la competencia es fuerte, pero teniendo la fidelidad y la recomendaci�
 
 Y bueno, los ingresos son algo obvio que caerán por el peso de lo anteriormente dicho, así que, si se quiere tener ganancias, hay que invertir, ser rápidos y ganar mercado a la competencia.
 
-El trabajo se realizó usando Python, PowerBI y Excel, comprobando y haciendo las debidas modificaciones.
+El trabajo se realizó usando Python, PowerBI, MySQL, Excel y obviamente GIT, comprobando y haciendo las debidas modificaciones.
 
-No hay que desestimar la potencia de algunos elementos que se usaron, como una tabla tal cual y el Excel, son parte de las herramientas que podemos usar. 
+No hay que desestimar la importancia de algunos elementos que se usaron, como una tabla tal cual y el Excel, que son parte de las herramientas que podemos usar al analizar datos. 
 
-No son millones de datos,  entonces Excel fue una herramienta útil para ver los datos juntos sin tanto esfuerzo, por eso es que fue utilizado.<br><br><br>
+En este caso no fueron millones de datos, entonces Excel fue una herramienta útil para ver rápidamente los datos juntos, por eso es por lo que fue utilizado para hacer algunas transformaciones, ediciones de datos, como el tipo de dato, el formato, etc. Y MySQL para cargar algunos datasets y ligarlos con PowerBI para ver las tablas.
+.<br><br><br>
 
 ### **Referencias**
 
