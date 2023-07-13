@@ -56,14 +56,15 @@ Conforme se avanzaba con los procesos mencionados, se determinó que únicamente
 
 ## **DESARROLLO**
 Bien, pasando a los hallazgos que el EDA me mostró y en conjunto con la revisióin de todos los datos, veremos los más interesantes.<br>
-En el análisis vamos a concentrarnos en 3 aspectos:<br>
--	Penetración del Mercado
--	Ingresos
--	Velocidad de Internet
+En el análisis vamos a concentrarnos en 4 aspectos, que funcionarán como KPI:<br>
+-	Penetración del Mercado (Conexiones de internet por cada 100 hogares)
+-	Ingresos (Ingresos Anuales)
+-	Velocidad de Internet (Velocidad Promedio de Internet por Provincia)
+-	Tecnología (Conexiones mediante Fibra Óptica)
 
 Esto se decidió después de validar todos los datos disponibles, se piensa que el futuro de la empresa se basa en estos tres puntos, que son los pilares de un crecimiento adecuado, si bien conocemos que se tiene más información con los datasets adicionales, pero para realmente hacer que la empresa pueda tener un sustento adecuado, incremento de valor y ser la mejor, debemos comenzar ofreciendo velocidad de internet rápido, teniendo más presencia en el mercado, eso se convertirá a más ingresos.
 
-Iniciamos viendo la penetración de mercado que se tiene por parte de la empresa, viendo los Accesos por cada 100 hogares de forma anual en el total de las provincias.
+Iniciamos viendo la **Penetración de Mercado** que se tiene por parte de la empresa, viendo los Accesos por cada 100 hogares de forma anual en el total de las provincias.
 
 <p align='center'>
 <img src = 'src/hogares 1.png' height = 500>
@@ -121,7 +122,7 @@ Visto en forma de tabla vemos lo siguiente.
 <br>
 Sin quitarle el peso que tiene una tabla bien ordenada, vemos como es que, de tener un incremento de ingresos interesantes, de 2021 a 2022 no se incrementaron mucho, esto es preocupante porque el ritmo que se llevaba no se siguió, entonces debemos revisar que está pasando, con ventas y atención al cliente.<br><br><br>
 
-## Velocidades de la conexión a Internet
+## Velocidades de la conexión a Internet y Tecnología
 En esta gráfica podemos ver las velocidades de internet que se tuvieron por año, desde 2014 hasta 2022.
 
 <p align='center'>
