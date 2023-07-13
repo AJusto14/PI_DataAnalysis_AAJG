@@ -184,7 +184,7 @@ Y bueno, los ingresos son algo obvio que caerán por el peso de lo anteriormente
 
 El trabajo se realizó usando Python, PowerBI, MySQL, Excel y obviamente GIT, para realizar las debidas consignas de las cuales se derivan los hallazgos presentados.
 
-Con Python se hizo el ETL y el EDA, para realizar algunas transformaciones y algunos hallazgos de los datos, Power BI para mostrar la información gráficamente más presentable, MySQL para hacer cruza de datos y ver algunos querys de consultas, Excel para ver información y GIT para crear y actualizar el proyecto.
+Con Python se hizo el ETL y el EDA, para obtener los datos, realizar algunas transformaciones y descubrir algunos hallazgos de los datos, Power BI para mostrar la información gráficamente más presentable, MySQL para hacer cruza de datos y ver algunos querys de consultas, Excel para ver información y GIT para crear y actualizar el proyecto.
 
 No hay que desestimar la importancia de algunos elementos que se usaron, como una tabla tal cual y el Excel, que son parte de las herramientas que podemos usar al analizar datos. 
 
