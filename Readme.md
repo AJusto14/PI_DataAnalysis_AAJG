@@ -120,7 +120,16 @@ Visto en forma de tabla vemos lo siguiente.
 <img src = 'src/ingresos tabla.png' height = 500>
 <p>
 <br>
-Sin quitarle el peso que tiene una tabla bien ordenada, vemos como es que, de tener un incremento de ingresos interesantes, de 2021 a 2022 no se incrementaron mucho, esto es preocupante porque el ritmo que se llevaba no se siguió, entonces debemos revisar que está pasando, con ventas y atención al cliente.<br><br><br>
+Sin quitarle el peso que tiene una tabla bien ordenada, vemos como es que, de tener un incremento de ingresos interesantes, de 2021 a 2022 no se incrementaron mucho, esto es preocupante porque el ritmo que se llevaba no se siguió, entonces debemos revisar que está pasando, con ventas y atención al cliente.
+
+Para terminar con la parte de los ingresos, recordemos que tenemos datasets adicionales de algunos otros servicios, los cuales son Televisión, Telefonía Móvil y Telefonía Fija, los cuales nos proporcionan información de ingresos, que es relevante para este apartado, puesto que como empresa que proporciona el servicio de internet, recordemos la popularidad que se tiene con los servicios de Streaming, entonces, al ya tener las conexiones a las casas de los usuarios, podemos tomar esa misma para añadir una señal adicional, en este caso algún otro servicio, o porque no, todos.
+
+Veamos esta gráfica que compara los ingresos de los 4 servicios, internet, telefonía fija, móvil y televisión, para darnos una idea el área de como podríamos darle un nuevo giro al negocio, añadiendo algún servicio adicional, tratando de captar más ingresos.
+<p align='center'>
+<img src = 'src/ingresos todos servicios.png' height = 500>
+<p>
+Como podemos ver, el servicio de internet es el más bajo, pero los ingresos de la telefonía móvil está por los cielos, entonces, porqué no incluir uno, dos, tres o los cuatro servicios dentro de nuestro catálogo, esto nos llevará a ser más competitivos, ofrecerle a los clientes un servicio más integral al combinar los servicios que hoy en día se manejan más, esto nuevamente es, penetración de mercado, porque si tienen un servicio ya con nosotros, sea cual sea, si se atiende bien, porque no podrían contratar uno más? 
+<br><br><br>
 
 ## Velocidades de la conexión a Internet y Tecnología
 En esta gráfica podemos ver las velocidades de internet que se tuvieron por año, desde 2014 hasta 2022.
@@ -189,7 +198,7 @@ Con Python se hizo el ETL y el EDA, para obtener los datos, realizar algunas tra
 No hay que desestimar la importancia de algunos elementos que se usaron, como una tabla tal cual y el Excel, que son parte de las herramientas que podemos usar al analizar datos. 
 
 En este caso no fueron millones de datos, entonces Excel fue una herramienta útil para ver rápidamente los datos juntos, por eso es por lo que fue utilizado para hacer algunas transformaciones, ediciones de datos, como el tipo de dato, el formato, etc. Y MySQL para cargar algunos datasets y ligarlos con PowerBI para ver las tablas.
-.<br><br><br>
+<br><br><br>
 
 ### **Referencias**
 
