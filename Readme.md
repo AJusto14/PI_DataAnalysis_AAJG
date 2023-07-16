@@ -57,10 +57,10 @@ Conforme se avanzaba con los procesos mencionados, se determinó que únicamente
 ## **DESARROLLO**
 Bien, pasando a los hallazgos que el EDA me mostró y en conjunto con la revisióin de todos los datos, veremos los más interesantes.<br>
 En el análisis vamos a concentrarnos en 4 aspectos, que funcionarán como KPI:<br>
--	Penetración del Mercado (Conexiones de internet por cada 100 hogares)
--	Ingresos (Ingresos Anuales)
+-	Penetración del Mercado (Porcentaje de conexiones de internet por cada 100 hogares)
+-	Ingresos (Promedio de Ingresos Anuales)
 -	Velocidad de Internet (Velocidad Promedio de Internet por Provincia)
--	Tecnología (Conexiones mediante Fibra Óptica)
+-	Tecnología (Porcentaje de conexiones mediante Fibra Óptica)
 
 Esto se decidió después de validar todos los datos disponibles, se piensa que el futuro de la empresa se basa en estos tres puntos, que son los pilares de un crecimiento adecuado, si bien conocemos que se tiene más información con los datasets adicionales, pero para realmente hacer que la empresa pueda tener un sustento adecuado, incremento de valor y ser la mejor, debemos comenzar ofreciendo velocidad de internet rápido, teniendo más presencia en el mercado, eso se convertirá a más ingresos.
 
